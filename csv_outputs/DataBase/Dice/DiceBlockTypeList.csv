@@ -1,0 +1,2 @@
+m_id,m_Effective,m_FloorMaterialFilePath,m_PassedFloorMaterialFilePath,m_FloorTextureIndex,m_PassedTextureIndex,m_FloorObject,m_ObjectOffsetX,m_ObjectOffsetY,m_ObjectOffsetZ,m_ObjectScale,m_PassedObject,m_PassedObjectOffsetX,m_PassedObjectOffsetY,m_PassedObjectOffsetZ,m_PassedObjectScale,m_FloorEffect,m_PassedEffect
+0,0,,,0,0,0,0.0,0.0,0.0,1.0,0,0.0,0.0,0.0,1.0,0,0

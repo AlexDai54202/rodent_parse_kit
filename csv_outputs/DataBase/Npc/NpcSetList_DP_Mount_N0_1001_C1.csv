@@ -1,0 +1,13 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+1,eTALK_B04S_5_4,9,0,0,0,0,0,0,0,40,B04S_5_4,2,0,1,0,Mnt_D_1C1_02,194,195,195,194,195,0,2,1004050,0,561,3,1004050,0,561,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+12,eTALK_B04S_5_4_RouteLock,9,0,0,0,0,0,0,0,40,B04S_5_4_RouteLock,99999999,0,1,0,,194,195,195,194,194,0,2,1004050,0,561,3,1004050,0,561,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+13,eTALK_B04S_5_4_Destination,1,0,0,0,0,0,0,0,40,B04S_5_4_Destination,99999999,0,1,0,,194,195,194,194,194,0,2,1004050,0,561,3,1004050,0,561,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eTALK_B04S_5_5,1,0,0,0,0,0,0,0,40,B04S_5_5,4,0,1,0,,195,195,194,194,195,0,2,1004050,0,562,3,1004050,0,562,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,eSymEnm_DPMo1C1_001,10,0,0,0,4021,0,0,0,40,eSymEnm_DPMo1C1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+8,eSymEnm_DPMo1C1_002,10,0,0,0,4022,0,0,0,40,eSymEnm_DPMo1C1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_DPMo1C1_001,6,0,0,4020,0,0,0,0,40,eTreBX_DPMo1C1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPMo1C1_002,6,0,0,4021,0,0,0,0,40,eTreBX_DPMo1C1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_DPMo1C1_003,6,0,0,4022,0,0,0,0,40,eTreBX_DPMo1C1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+9,eRP_DPMo1C1_001,5,0,0,0,0,19,0,0,40,eRP_DPMo1C1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+11,Pnl_MnD11C_Box001,8,0,113,0,0,0,0,0,40,Pnl_MnD11C_Box001,99999999,0,0,0,,194,195,194,194,194,0,3,1004050,0,562,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,Pnl_MnD11C_Edlus_Camp,8,0,112,0,0,0,0,0,40,Pnl_MnD11C_Edlus_Camp,99999999,0,0,0,,194,195,194,194,194,0,0,0,0,0,3,1004050,0,562,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

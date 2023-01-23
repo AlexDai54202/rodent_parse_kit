@@ -1,0 +1,12 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+1,Tlk_HFsD11_F007_HFsD11A_v1_1,1,10001498,0,0,0,0,0,0,100145,Tlk_HFsD11_F007_HFsD11A,1,0,3,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eSymEnm_DP_HellForest_1001_A1_001,10,0,0,0,7117,0,0,0,100145,eSymEnm_DP_HellForest_1001_A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_HFsD11A_001,6,0,0,10443,0,0,0,0,100145,eTreBX_HFsD11A_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_HFsD11A_002,6,0,0,10444,0,0,0,0,100145,eTreBX_HFsD11A_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_HFsD11A_003,6,0,0,10445,0,0,0,0,100145,eTreBX_HFsD11A_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eTreBX_HFsD11A_004,6,0,0,10446,0,0,0,0,100145,eTreBX_HFsD11A_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,HFsT11A_BreakCurse_02,1,10000653,0,0,0,0,0,0,100145,HFsT11A_BreakCurse_02,7,0,1,0,,194,195,194,194,195,0,3,1008020,0,2368,0,0,0,0,"[104873, 0, 0, 0]","[104874, 0, 0, 0]",194,0,194
+11,Lck_HFsD11A__01,9,0,622,0,0,0,0,0,100145,Lck_HFsD11A__01,99999999,0,1,0,,194,195,194,194,195,0,3,1008020,0,2368,0,0,0,0,"[0, 0, 0, 0]","[104874, 0, 0, 0]",194,0,194
+7,Tlk_HFsD11_HL003A_HFsD11A_v1_1,1,10001514,0,0,0,0,0,0,100145,Tlk_HFsD11_HL003A_HFsD11A,3,0,4,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[104874, 0, 0, 0]",194,0,194
+8,Tlk_HFsD11_HL003A_HFsD11A_v1_2,1,10001515,0,0,0,0,0,0,100145,Tlk_HFsD11_HL003A_HFsD11A,4,0,4,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[104874, 0, 0, 0]",194,0,194
+9,Tlk_HFsD11_HL003B_HFsD11A_v1_1,1,10001516,0,0,0,0,0,0,100145,Tlk_HFsD11_HL003B_HFsD11A,5,0,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[104874, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

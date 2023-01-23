@@ -1,0 +1,2 @@
+m_id,m_ChallengeNum,m_ChallengeRestockNum,m_ChallengeRubyNum,m_ChallengeRestockMaxNum,m_ChallengeRestockItem,m_FreeHpSpRecoverNum,m_HpSpRecoverNum,m_HpSpRecoverRubyNum,m_HpSpRecoverItem,m_RestockNum,m_RubyNum,m_RubyRestockNum,m_TowerName,m_BackgroundWidget,m_OpenCondition,m_OpenConditionTower,m_ChangeItem,m_StartEvent,m_Icon,m_IconPosX,m_IconPosY,m_EndFlg,m_InvisibleFlg
+0,0,"[1, 5, 30]","[3, 10, 20]","[10, 5, 3]","[0, 0, 0]",0,"[0, 0]","[0, 0]","[0, 0]",0,0,0,0,,0,0,0,0,0,0,0,194,194

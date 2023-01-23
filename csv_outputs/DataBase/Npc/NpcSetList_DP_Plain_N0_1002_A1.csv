@@ -1,0 +1,12 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+1,eTALK_B03S_3_4,9,0,0,0,0,0,0,0,83,B03S_3_4,1,0,1,0,Pln_D_2A1_01,194,195,195,194,195,0,2,1003030,0,588,3,1003030,0,588,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+11,eTALK_B03S_3_4_RoutBlock,9,0,0,0,0,0,0,0,83,B03S_3_4_RoutBlock,99999999,0,1,0,,194,195,195,194,194,0,2,1003030,0,588,3,1003030,0,588,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+12,eTALK_B03S_3_4_Destination,1,0,0,0,0,0,0,0,83,B03S_3_4_Destination,99999999,0,1,0,,194,195,194,194,194,0,2,1003030,0,588,3,1003030,0,588,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,eSymEnm_DPPl1002A1_001,10,0,0,0,2005,0,0,0,83,eSymEnm_DPPl1002A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+8,eSymEnm_DPPl1002A1_002,10,0,0,0,2006,0,0,0,83,eSymEnm_DPPl1002A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+9,Pnl_PlD12A_ObjMD_Co_Theater_Rope_A_2_1,8,0,95,0,0,0,0,0,83,Pnl_PlD12A_ObjMD_Co_Theater_Rope_A_2_1,99999999,0,0,0,,194,195,194,194,194,0,3,1003030,0,588,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eTreBX_DPPl1002A1_001,6,0,0,2020,0,0,0,0,83,eTreBX_DPPl1002A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_DPPl1002A1_002,6,0,0,2021,0,0,0,0,83,eTreBX_DPPl1002A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPPl1002A1_003,6,0,0,2022,0,0,0,0,83,eTreBX_DPPl1002A1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_DPPl1002A1_004,6,0,0,2023,0,0,0,0,83,eTreBX_DPPl1002A1_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eTreBX_DPPl1002A1_005,6,0,0,2024,0,0,0,0,83,eTreBX_DPPl1002A1_005,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

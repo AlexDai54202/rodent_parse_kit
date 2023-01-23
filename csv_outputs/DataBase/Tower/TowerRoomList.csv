@@ -1,0 +1,2 @@
+m_id,m_Floor,m_ExFlg,m_Sort,m_OpenCondition,m_OpenConditionText,m_BattleMap,m_TurnNum,m_PhaseList,m_LimitMissionList,m_PlayableMissionList,m_FloorReward,m_FloorNextReward,m_CampaignFloorReward,m_ClearEvent
+0,0,194,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0]",0,0,0,0

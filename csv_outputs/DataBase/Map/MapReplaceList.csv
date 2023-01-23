@@ -1,0 +1,6 @@
+m_id,m_MapBefore,m_MapAfter,m_WorldMapBefore,m_WorldMapAfter,m_EnableQuestID,m_EnableQuestState,m_EnableQuestTaskID,m_DisableQuestID,m_DisableQuestState,m_DisableQuestTaskID,m_EnableTrigConditionID,m_DisableTrigConditionID
+0,0,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+1,62,10034,32,10048,1007010,3,1001,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+2,63,10035,32,10048,1007010,3,1001,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+6,0,0,10003,10051,1007010,2,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+7,0,0,10040,10052,0,0,0,1006020,3,1715,"[0, 0, 0, 0]","[0, 0, 0, 0]"

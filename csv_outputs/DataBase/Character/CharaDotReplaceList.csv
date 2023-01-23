@@ -1,0 +1,3 @@
+m_id,m_CharaPlayerID,m_CharaID,m_TexU,m_TexV,m_OrderTexUS,m_OrderTexVS,m_OrderScaleS,m_OrderTexUL,m_OrderTexVL,m_OrderScaleL,m_BootQuestState,m_BootQuestID,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID
+0,0,0,0,0,0.0,0.0,1.0,0.0,0.0,1.0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+1,70,50439,1,1,-0.014999999664723873,-0.019999999552965164,1.0,0.0,0.09000000357627869,1.0,3,2070040,1522,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"

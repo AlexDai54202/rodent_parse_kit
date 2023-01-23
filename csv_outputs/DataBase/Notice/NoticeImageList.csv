@@ -1,0 +1,4 @@
+m_id,m_BeginTimeStamp,m_EndTimeStamp,m_QuestTrigCondition,m_Type,m_TexID,m_Priority,m_Transition,m_TextID,m_GachaListID,m_StoryBookListID,m_QuestListID
+0,0,0,"[0, 0, 0]",0,500,0,0,3,0,0,0
+100001,1671609600,1672736400,"[0, 0, 0]",0,100108,1,1,65143,0,0,0
+100002,1669276800,1669874400,"[0, 0, 0]",0,100107,1,2,65144,0,0,0

@@ -1,0 +1,2 @@
+m_id,m_Name,m_SkillIconID,m_RemoveActionAilment,m_RemoveConditions,m_RemoveParams,m_AttachEffect,m_BattleAttachEffectOffsetX,m_BattleAttachEffectOffsetY,m_FieldAttachEffect,m_FieldAttachEffectOffsetX,m_FieldAttachEffectOffsetY
+0,0,0,194,"[204, 0]","[0, 0]",0,0,0,0,0,0

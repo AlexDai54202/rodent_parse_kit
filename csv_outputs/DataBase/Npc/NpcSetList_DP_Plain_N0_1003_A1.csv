@@ -1,0 +1,10 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+0,eTALK_B02S_2_1,1,0,0,0,0,0,0,0,85,B02S_2_1,0,0,3,0,,195,195,194,194,195,0,2,1002020,0,381,3,1002020,0,381,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eSymEnm_DPPl1001A1_001,10,0,0,0,2009,0,0,0,85,eSymEnm_DPPl1003A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,eSymEnm_DPPl1003A1_002,10,0,0,0,2010,0,0,0,85,eSymEnm_DPPl1003A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eNPC_Lock_EvB02_02_001A,9,80093,0,0,0,0,0,0,85,eNPC_Lock_EvB02_02_001A,2,0,1,0,Spawn5,194,195,194,194,195,0,0,0,0,0,3,1002020,0,620,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+9,eNPC_DP_Plain_1003_001A_A,1,80093,0,0,0,0,0,0,85,eNPC_DP_Plain_1003_001A_A,4,0,1,0,,194,194,194,194,194,0,3,1002020,0,381,3,1002020,0,525,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,eNPC_DP_Plain_1003_001B_A,1,80096,0,0,0,0,0,0,85,eNPC_DP_Plain_1003_001B_A,6,0,1,0,,194,194,194,194,194,0,3,1002020,0,525,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+1,eTreBX_DPPl1003A1_001,6,0,0,2040,0,0,0,0,85,eTreBX_DPPl1003A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eTreBX_DPPl1003A1_002,6,0,0,2041,0,0,0,0,85,eTreBX_DPPl1003A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPPl1003A1_004,6,0,0,2043,0,0,0,0,85,eTreBX_DPPl1003A1_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

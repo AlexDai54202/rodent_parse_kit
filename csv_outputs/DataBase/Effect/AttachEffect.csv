@@ -1,0 +1,3 @@
+m_id,m_Label,m_AttachEffect,m_OffsetPosX,m_OffsetPosY,m_OffsetPosZ,m_Scale,m_TranslucencySortPriority
+0,AE_NONE,0,0.0,0.0,0.0,1.0,0
+1,AE_ATTACH_TEST1,153,0.0,0.0,0.0,1.0,0

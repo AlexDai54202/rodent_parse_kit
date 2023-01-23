@@ -1,0 +1,2 @@
+m_id,m_WorldId,m_TextureID,m_MaskPos,m_MaskScale,m_Priority,m_TrigConditionIds,m_InvalidConditionIds
+1,0,500,"[0.0, 0.0]","[0.0, 0.0]",0,"[0, 0, 0, 0]","[0, 0, 0, 0]"

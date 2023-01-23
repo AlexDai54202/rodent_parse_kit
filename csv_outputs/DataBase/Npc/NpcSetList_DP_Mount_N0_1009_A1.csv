@@ -1,0 +1,12 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+9,QuTr_PC003_04_03,1,0,0,0,0,0,0,0,128,QuTr_PC003_04_03,3,0,1,0,,194,194,194,194,194,0,2,2003040,0,972,3,2003040,0,972,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+13,QuTr_PC080_04_03,1,10000653,0,0,0,0,0,0,128,QuTr_PC080_04_03,22,0,1,0,,194,194,194,194,194,0,2,2080040,0,1376,3,2080040,0,1376,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,eSymEnm_DPMo9A1_001,10,0,0,0,4031,0,0,0,128,eSymEnm_DPMo9A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+8,eSymEnm_DPMo9A1_002,10,0,0,0,4032,0,0,0,128,eSymEnm_DPMo9A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+1,eTreBX_DPMo9A1_001,6,0,0,4030,0,0,0,0,128,eTreBX_DPMo9A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eTreBX_DPMo9A1_002,6,0,0,4031,0,0,0,0,128,eTreBX_DPMo9A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_DPMo9A1_003,6,0,0,4032,0,0,0,0,128,eTreBX_DPMo9A1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPMo9A1_004,6,0,0,4033,0,0,0,0,128,eTreBX_DPMo9A1_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_DPMo9A1_005,6,0,0,4034,0,0,0,0,128,eTreBX_DPMo9A1_005,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eTreBX_DPMo9A1_006,6,0,0,4035,0,0,0,0,128,eTreBX_DPMo9A1_006,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+17,QuTr_PC071_03_03,1,10000653,0,0,0,0,0,0,128,QuTr_PC071_03_03,29,0,1,1,,194,194,194,194,194,0,2,2071030,0,2440,3,2071030,0,2440,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

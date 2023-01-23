@@ -1,0 +1,11 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+14,QuTr_PC010_04_02,1,0,0,0,0,0,0,0,60,QuTr_PC010_04_02,7,0,1,0,,194,194,194,194,194,0,2,2010040,0,660,3,2010040,0,660,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,eTALK_B02S_1_4,1,0,0,0,0,0,0,0,60,B02S_1_4,2,0,3,0,,195,195,194,194,195,0,2,1002010,0,524,3,1002010,0,524,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eSymEnm_DPSn1001A1_001,10,0,0,0,1001,0,0,0,60,eSymEnm_DPSn1001A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,eSymEnm_DPSn1001A1_002,10,0,0,0,1002,0,0,0,60,eSymEnm_DPSn1001A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+16,eSymEnm_DPSn1001A1_003,10,0,0,0,50121,0,0,0,60,eSymEnm_DPSn1001A1_003,99999999,0,0,0,,194,194,194,194,194,0,2,1007010,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,eObj_Lock_LaboEnt_001,9,0,26,0,0,0,0,0,60,eObj_Lock_LaboEnt_001,3,0,1,0,Spawn5,194,195,194,194,195,0,0,0,0,0,3,1002010,0,523,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_DPSn1001A1_001,6,0,0,1001,0,0,0,0,60,eTreBX_DPSn1001A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPSn1001A1_002,6,0,0,1002,0,0,0,0,60,eTreBX_DPSn1001A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_DPSn1001A1_003,6,0,0,1003,0,0,0,0,60,eTreBX_DPSn1001A1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+15,QuTr_PC089_02_03,1,10000653,0,0,0,0,0,0,60,QuTr_PC089_02_03,9,0,1,0,,194,194,194,194,194,0,2,2089020,0,1555,3,2089020,0,1555,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

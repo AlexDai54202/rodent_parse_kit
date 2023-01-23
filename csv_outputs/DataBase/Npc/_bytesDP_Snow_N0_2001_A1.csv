@@ -1,0 +1,6 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID
+0,eTreBX_DP_Snow_N0_2001_A1_001,6,0,0,10105,0,0,0,0,100016,eTreBX_DP_Snow_N0_2001_A1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+1,eTreBX_DP_Snow_N0_2001_A1_002,6,0,0,10106,0,0,0,0,100016,eTreBX_DP_Snow_N0_2001_A1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+2,eTreBX_DP_Snow_N0_2001_A1_003,6,0,0,10107,0,0,0,0,100016,eTreBX_DP_Snow_N0_2001_A1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+3,eTreBX_DP_Snow_N0_2001_A1_004,6,0,0,10108,0,0,0,0,100016,eTreBX_DP_Snow_N0_2001_A1_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"
+4,eTreBX_DP_Snow_N0_2001_A1_005,6,0,0,10109,0,0,0,0,100016,eTreBX_DP_Snow_N0_2001_A1_005,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]"

@@ -1,0 +1,7 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+1,eTALK_B08_03_15d,1,10000653,0,0,0,0,0,0,100150,B08_03_15d,1,0,6,0,,194,194,194,194,195,0,0,0,0,0,0,0,0,0,"[104918, 0, 0, 0]","[104969, 0, 0, 0]",194,0,194
+2,HClT22C1_BlackFogLock_01,9,0,622,0,0,0,0,0,100150,HClT22C1_BlackFogLock_01,2,0,1,0,HClf_D_2002C1_01,194,195,194,194,195,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[104969, 0, 0, 0]",194,0,194
+3,TreBx_HClD22C1_001,6,0,0,10464,0,0,0,0,100150,TreBx_HClD22C1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,TreBx_HClD22C1_002,6,0,0,10465,0,0,0,0,100150,TreBx_HClD22C1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,TreBx_HClD22C1_003,6,0,0,10466,0,0,0,0,100150,TreBx_HClD22C1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,SymEnm_HClD22C1_001,10,0,0,0,50275,0,0,0,100150,SymEnm_HClD22C1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

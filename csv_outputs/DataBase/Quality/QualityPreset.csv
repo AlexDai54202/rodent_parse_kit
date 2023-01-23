@@ -1,0 +1,6 @@
+m_id,m_ScreenPercentage,m_BaseFPS,m_MaxFPS,m_PointLightMax,m_VisibleFoliage,m_VisibleShadow,m_VisibleEventShadow,m_VisibleCloudShadow,m_VisibleFogSheet,m_VisibleEmitter,m_VisibleLightBeam,m_VisibleDecal,m_ViewDistanceScale,m_DetailMode,m_EffectsQuality,m_VisibleCharDecalShadow,m_FoliageScale,m_VisibleDOF,m_VisibleBloom,m_AntiAliasingQuality,m_ShadowQuality,m_PostProcessQuality,m_TextureQuality
+0,0,0.0,0.0,0,194,194,194,194,194,194,194,194,0.0,0,0,194,0.0,194,194,0,0,0,0
+1,50,30.0,30.0,1,195,194,194,194,194,195,194,194,0.949999988079071,0,0,195,0.6000000238418579,194,194,0,0,1,0
+2,65,30.0,30.0,2,195,194,194,194,194,195,195,195,0.9800000190734863,1,1,195,0.800000011920929,195,195,1,1,1,1
+3,80,30.0,30.0,4,195,195,195,195,195,195,195,195,1.0,2,2,195,1.0,195,195,2,2,2,2
+4,99,30.0,30.0,4,195,195,195,195,195,195,195,195,1.0,2,2,195,1.0,195,195,2,2,3,2

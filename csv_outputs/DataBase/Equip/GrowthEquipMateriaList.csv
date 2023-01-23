@@ -1,0 +1,2 @@
+m_id,m_ShowOrder,m_NameID,m_SlotShape,m_Rarity,m_EquipTarget,m_ConditionLimitCharacter,m_ConditionLimitInfluence,m_ConditionLimitJob,m_LotteryWeights,m_EffectType,m_EffectTarget,m_EffectValueMin,m_EffectValueMax,m_ManagedOnServer
+0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",195

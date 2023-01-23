@@ -1,0 +1,11 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+1,eTALK_B04S_3_3,9,0,0,0,0,0,0,0,76,B04S_3_3,2,0,0,0,Rvr_D_1B1_01,194,195,194,194,195,0,2,1004030,0,550,3,1004030,0,550,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,eTALK_B04S_7_1,1,0,0,0,0,0,0,0,76,B04S_7_1,6,0,0,0,,195,195,194,194,195,0,2,1004070,0,569,3,1004070,0,569,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+8,eSymEnm_DPRi1B1_001,10,0,0,0,6011,0,0,0,76,eSymEnm_DPRi1B1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+9,eSymEnm_DPRi1B1_002,10,0,0,0,6012,0,0,0,76,eSymEnm_DPRi1B1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTreBX_DPRi1B1_001,6,0,0,6010,0,0,0,0,76,eTreBX_DPRi1B1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,eTreBX_DPRi1B1_002,6,0,0,6011,0,0,0,0,76,eTreBX_DPRi1B1_002,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,eTreBX_DPRi1B1_003,6,0,0,6012,0,0,0,0,76,eTreBX_DPRi1B1_003,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,eTreBX_DPRi1B1_004,6,0,0,6013,0,0,0,0,76,eTreBX_DPRi1B1_004,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,Lck_Door_Leaven_A_RvD11B,9,0,0,0,0,0,0,0,76,Lck_Door_Leaven_A_RvD11B,99999999,15,0,0,,195,195,194,194,194,0,0,0,0,0,3,1004070,0,569,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+11,eRP_DPRi1B1_001,5,0,0,0,0,11,0,0,76,eRP_DPRi1B1_001,99999999,0,0,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

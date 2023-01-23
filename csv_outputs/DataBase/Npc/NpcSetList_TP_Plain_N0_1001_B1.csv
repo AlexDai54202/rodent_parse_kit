@@ -1,0 +1,7 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+0,eTALK_B03S_1_0,1,0,0,0,0,0,0,0,78,B03S_1_0,0,0,1,0,,195,194,194,194,194,0,1,1003010,0,0,2,1003010,0,300,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,eTALK_B03S_1_0_NPC2,1,1402,0,0,0,0,0,0,78,B03S_1_0_NPC2,99999999,0,3,9,,194,195,194,194,194,0,1,1003010,0,0,2,1003010,0,300,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+101,eTALK_CROWD_THEATER,8,0,99,0,0,0,0,0,78,CROWD_THEATER,99999999,0,0,0,,194,195,194,194,194,0,1,1003010,0,0,2,1003010,0,300,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+99,eTALK_STAGE_TORCH_A,8,0,6,0,0,0,0,0,78,STAGE_TORCH_A,99999999,0,0,0,,194,195,194,194,194,0,0,0,0,0,2,1003010,0,300,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+100,eTALK_STAGE_TORCH_B,8,0,6,0,0,0,0,0,78,STAGE_TORCH_B,99999999,0,0,0,,194,195,194,194,194,0,0,0,0,0,2,1003010,0,300,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+102,Tlk_UniqueF_Westerwise_PlT11B_v1_1,1,10000598,0,0,0,0,0,0,78,Tlk_UniqueF_Westerwise_PlT11B,2,0,1,0,,194,194,194,194,194,0,3,1004080,0,578,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

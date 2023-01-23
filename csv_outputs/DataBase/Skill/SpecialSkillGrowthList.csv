@@ -1,0 +1,2 @@
+m_id,m_SpecialSkillID,m_Level,m_SkillID,m_InitialGaugeValue,m_GaugeRegenerateValue,m_CountLimit,m_RewardTypes,m_ItemIDs,m_ItemCounts,m_AvailValues,m_AvailHitTypes,m_AilmentValues,m_AilmentTurns
+0,0,1,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]","[0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]","[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"

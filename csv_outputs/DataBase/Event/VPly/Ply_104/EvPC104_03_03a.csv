@@ -1,0 +1,2 @@
+m_id,m_Group,m_Delay,m_Command,m_Target,m_CharaDataId,m_CharaAnimId,m_EmotionId,m_EffectId,m_SoundId,m_ItemId,m_EquipId,m_TextureId,m_ObjectId,m_MapId,m_CurveID,m_BitFlag,m_Other,m_Pos,m_Dir,m_EventId,m_NarrationId,m_Text,m_TextWindowType,m_Async,m_OptAry
+139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"[0.0, 0.0, 0.0]",0,"[0, 0, 0, 0]",0,"[0, 0, 0, 0, 0, 0]",0,194,"['', '', '', '', '', '', '']"

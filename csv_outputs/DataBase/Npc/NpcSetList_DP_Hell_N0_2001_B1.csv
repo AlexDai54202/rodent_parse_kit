@@ -1,0 +1,11 @@
+m_id,m_label,m_MapObjType,m_OwnerNPC,m_OwnerObject,m_TreasureBox,m_OwnerEnemy,m_RecoveryPointId,m_HardDungeonPairId,m_HardDungeonPairNum,m_MapID,m_AppearLabel,m_TalkID,m_IconType,m_AppearDir,m_AppearPose,m_BackUniquePath,m_HideChara,m_HideIcon,m_HideMinimapIconFlg,m_ExcludeEventOnOffCommand,m_AutoTalk,m_Hard,m_BootQuestStaet,m_BootQuestID,m_BootQuestTaskNum,m_BootQuestTaskId,m_DisableQuestState,m_DisableQuestID,m_DisableQuestTaskNum,m_DisableQuestTaskId,m_TrigConditionID,m_NoneConditionID,m_HideFC,m_ReplaceEnemyTypeId,m_SetLandPos
+9,eTALK_B08S_5_3,9,10000653,0,0,0,0,0,0,100237,B08S_5_3,25,0,1,0,H_D_2001B1_01,194,195,194,194,195,0,2,1008050,0,2601,3,1008050,0,2601,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+10,eTALK_B08S_6_0,1,10001512,0,0,0,0,0,0,100237,B08S_6_0,27,0,3,13,,194,194,194,194,194,0,1,1008060,0,0,3,1008060,0,37,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+1,Tlk_NPC_Jump01_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump01_Hell,1,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+2,Tlk_NPC_Jump02_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump02_Hell,3,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+3,Tlk_NPC_Jump03_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump03_Hell,5,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+4,Tlk_NPC_Jump04_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump04_Hell,7,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+5,Tlk_NPC_Jump05_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump05_Hell,9,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+6,Tlk_NPC_Jump06_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump06_Hell,11,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+7,Tlk_NPC_Jump07_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump07_Hell,13,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194
+8,Tlk_NPC_Jump08_Hell,19,0,620,0,0,0,0,0,100237,Tlk_NPC_Jump08_Hell,15,36,1,0,,194,194,194,194,194,0,0,0,0,0,0,0,0,0,"[0, 0, 0, 0]","[0, 0, 0, 0]",194,0,194

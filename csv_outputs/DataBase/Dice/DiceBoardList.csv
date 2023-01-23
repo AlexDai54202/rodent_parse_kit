@@ -1,0 +1,2 @@
+m_id,m_BoardName,m_Detail,m_SortOrder,m_BoardLevel,m_BeginTime,m_EndTime,m_RequiredItem,m_OpenCondition,m_RewardType,m_RewardItemId,m_RewardItemNum,m_GoalBonusDiceRollMax,m_OpeningEvent,m_GoalBonusRate,m_GiveBackItem,m_StartBlock,m_StartBlockName,m_Roll,m_GiveBackRate,m_EnemyPowUpRate,m_BoardThumbnailId
+0,80000,80001,99,1,33136,33136,0,"[0, 0, 0]",0,0,0,0,0,"[1.0, 1.0, 1.0, 1.0, 1.0, 1.0]","[0, 0, 0]","[0, 0, 0]","[0, 0, 0]","[0, 0, 0]",0,0,500
